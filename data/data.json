@@ -1,0 +1,32 @@
+{
+    "projects": [
+            {
+                "id": "1",
+                "project_name": "",
+                "description": "",
+                "technologies": ["JS",
+                    "Pug",
+                    "CSS",
+                    "HTML"
+                ],
+                "live_link": "",
+                "github_link":"",
+                "image_urls":["",
+                    ""]
+            },
+            {
+                "id": "2",
+                "project_name": "",
+                "description": "",
+                "technologies": ["2JS",
+                    "2Pug",
+                    "2CSS",
+                    "2HTML"
+                ],
+                "live_link": "",
+                "github_link":"",
+                "image_urls":["",
+                    ""]
+            }
+        ]
+}
