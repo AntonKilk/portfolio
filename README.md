@@ -1,7 +1,12 @@
 # Static node and express site
-### Project 6 from Treehouse FSJS Techdegree
 
-This is a portfolio site that shows my previous works. The site contains next pages:
+## FSJS Techdegree Project 5 (teamtreehouse.com)
+
+### Author: Anton Kilk
+
+### Description:
+
+This is a portfolio site that shows my previous works. The website contains next pages:
 * Home
 * About
-* Pages for projects
+* Project pages

@@ -1,32 +1,78 @@
 {
     "projects": [
-            {
-                "id": "1",
-                "project_name": "",
-                "description": "",
-                "technologies": ["JS",
-                    "Pug",
-                    "CSS",
-                    "HTML"
-                ],
-                "live_link": "",
-                "github_link":"",
-                "image_urls":["",
-                    ""]
-            },
-            {
-                "id": "2",
-                "project_name": "",
-                "description": "",
-                "technologies": ["2JS",
-                    "2Pug",
-                    "2CSS",
-                    "2HTML"
-                ],
-                "live_link": "",
-                "github_link":"",
-                "image_urls":["",
-                    ""]
-            }
+        {
+            "id": "5",
+            "project_name": "Startup Employee Directory",
+            "description": "This App uses Random User Generator API to grab information for 12 random \"employees\". ",
+            "technologies": ["JavaScript",
+                "API",
+                "jQuery",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://antonkilk.github.io/startup-employee-directory/",
+            "github_link":"https://github.com/AntonKilk/startup-employee-directory",
+            "image_urls":["proj05_01.png",
+                "proj05_02.png",
+                "proj05_03.png"]
+        },
+        {
+            "id": "4",
+            "project_name": "Phrase Hunter",
+            "description": "A browser-based, word guessing game.",
+            "technologies": ["JavaScript OOP",
+                "jQuery",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://antonkilk.github.io/phrase-hunter/",
+            "github_link":"https://github.com/AntonKilk/phrase-hunter",
+            "image_urls":["proj04_01.png",
+                "proj04_02.png",
+                "proj04_03.png"]
+        },
+        {
+            "id": "3",
+            "project_name": "Interactive Form",
+            "description": "An interactive registration form for a fictional conference.",
+            "technologies": ["JavaScript",
+                "jQuery",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://antonkilk.github.io/interactive-form/",
+            "github_link":"https://github.com/AntonKilk/interactive-form",
+            "image_urls":["proj03_01.png",
+                "proj03_02.png",
+                "proj03_03.png"]
+        },
+        {
+            "id": "2",
+            "project_name": "List Pagination And Filtering",
+            "description": "The webpage dynamically limits the input of students data to display only 10 contacts at once.",
+            "technologies": ["JavaScript",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://antonkilk.github.io/list-pagination-and-filtering/",
+            "github_link":"https://github.com/AntonKilk/list-pagination-and-filtering",
+            "image_urls":["proj02_01.png",
+                "proj02_02.png",
+                "proj02_03.png"]
+        },
+        {
+            "id": "1",
+            "project_name": "A Random Quote Generator",
+            "description": "The app displays random quotes. Accomplished as an exam project during the Treehouse FSJS Techdegree program.",
+            "technologies": ["JavaScript",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://antonkilk.github.io/random-quote-generator/",
+            "github_link":"https://github.com/AntonKilk/random-quote-generator",
+            "image_urls":["proj01_01.png",
+                "proj01_02.png",
+                "proj01_03.png"]
+        }
         ]
 }

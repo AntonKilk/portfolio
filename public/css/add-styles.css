@@ -1,0 +1,12 @@
+a img.thumbnail {
+    border-radius: 25px;
+}
+
+a img.thumbnail:hover {
+    transform: scale(1.1);
+}
+
+.profile {
+    border-radius: 8px;
+}
+
