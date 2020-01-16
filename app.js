@@ -2,6 +2,8 @@ let createError = require('http-errors')
 let express = require('express')
 let app = express()
 let path = require('path')
+//for Heroku deployment
+app.listen(process.env.PORT);
 
 app.use('/static', express.static(path.join(__dirname, 'public')))
 app.set('views', path.join(__dirname, 'views'))
