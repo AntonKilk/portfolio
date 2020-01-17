@@ -10,7 +10,7 @@ router.get('/project/:id', (req, res) => {
     if (project) {
         res.render('project', { project })
     } else {
-        res.sendStatus(404)
+        return res.redirect('/error')
     }
 })
 

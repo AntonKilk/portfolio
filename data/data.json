@@ -3,7 +3,7 @@
         {
             "id": "5",
             "project_name": "Startup Employee Directory",
-            "description": "This App uses Random User Generator API to grab information for 12 random \"employees\". ",
+            "description": "An app that uses JavaScript, JQuery, and a third-party API to create an employee directory. ",
             "technologies": ["JavaScript",
                 "API",
                 "jQuery",
@@ -19,7 +19,7 @@
         {
             "id": "4",
             "project_name": "Phrase Hunter",
-            "description": "A browser-based, word guessing game.",
+            "description": "A browser-based, word guessing game, created with vanilla JavaScript and utilizing Object-Oriented-Programming principles.",
             "technologies": ["JavaScript OOP",
                 "jQuery",
                 "CSS",
@@ -34,7 +34,7 @@
         {
             "id": "3",
             "project_name": "Interactive Form",
-            "description": "An interactive registration form for a fictional conference.",
+            "description": "An app that utilizes JavaScript, JQuery and various validation techniques to enhance an interactive registration form for a fictional conference.",
             "technologies": ["JavaScript",
                 "jQuery",
                 "CSS",
@@ -49,7 +49,7 @@
         {
             "id": "2",
             "project_name": "List Pagination And Filtering",
-            "description": "The webpage dynamically limits the input of students data to display only 10 contacts at once.",
+            "description": "An app that utilizes dynamic pagination to filter a list of, any number of, students in order to provide a more pleasant User Experience.",
             "technologies": ["JavaScript",
                 "CSS",
                 "HTML"
@@ -63,7 +63,7 @@
         {
             "id": "1",
             "project_name": "A Random Quote Generator",
-            "description": "The app displays random quotes. Accomplished as an exam project during the Treehouse FSJS Techdegree program.",
+            "description": "The app displays a random quote from a list every 5 seconds or—optionally—at the click of a button.",
             "technologies": ["JavaScript",
                 "CSS",
                 "HTML"
