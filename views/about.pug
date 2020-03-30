@@ -1,6 +1,6 @@
 extends layout.pug
 
-block content 
+block content
   nav.grid-container.portfolio-breadcrumb
     a(href='/') ← Back
   article.grid-container.portfolio-intro.portfolio-project
@@ -10,23 +10,42 @@ block content
         h1 Anton Kilk
 
         p.lead.text-light
-          | Full-Stack Developer 
+          | Full-Stack Developer
 
         .portfolio-bio
           p(class="animated fadeInRight delay-1s")
-            | I am a medical engineer, but I found my passion in coding. 
-            | You can check my projects here.
-            | I also do a side project in the healthcare area, that will hopefully appear here soon.
+            | I have an MSc in Electronics. Since 2012 I work as a Field Engineer in Abbott (formerly St Jude Medical) helping healthcare professionals using our devices and applications in Cardiac Electrophysiology. My job has two main vectors - technical assistance and account management.
+            br
+            br
+            | I created this portfolio aside from my main duty partially as a hobby, but also to learn to code, which was always my dream. 
+            br
+            br
+            | Currently, I learn the profession of Product Manager. I look for a chance to use my experience from the healthcare industry in the software development process.
+            br
+            br
+          h6 Anton Kilk at a glance:
+
+          ul
+            li MSc in Electronics
+            li 8+ years of experience in Healthcare Industry / International company / Finland & Baltic region
+            li 4 languages: English, Russian, Estonian, Finnish
+            li 4 Marathons and 8 Half Marathons
+            li Married, 2 kids
       .cell.portfolio-meta.small-6.medium-2.large-3
-        h6 Skills
+        h6 Coding Skills
 
         ul
           li JavaScript
           li Node.js
           li Express
           li React
+          li React Router
+          li D3
+          li Cytoscape.js
           li SQL
-          li Git 
+          li SQLite
+          li Git
+          li Pug
 
         h6 Contact Info
 
@@ -39,4 +58,3 @@ block content
         a.button.expanded(href='https://twitter.com/AntonKilk') Twitter
   nav.grid-container.portfolio-breadcrumb
     a(href='/') ← Back
-  

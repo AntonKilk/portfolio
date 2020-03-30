@@ -1,5 +1,22 @@
 {
     "projects": [
+          {
+            "id": "6",
+            "project_name": "React Gallery App",
+            "description": "React Gallery App uses Axios for fetching data from the Flickr API to display 24 images. Use \"Search\" or choose one of the three subjects in navigation panel.. ",
+            "technologies": ["JavaScript",
+                "React",
+                "React Router",
+                "API",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://react-gallery-akilk.now.sh/",
+            "github_link":"https://github.com/AntonKilk/react-gallery",
+            "image_urls":["proj06_01.png",
+                "proj06_02.png",
+                "proj06_03.png"]
+        },
         {
             "id": "5",
             "project_name": "Startup Employee Directory",

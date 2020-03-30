@@ -1,15 +1,19 @@
 extends layout.pug
 
-block content 
+block content
   article.grid-container.portfolio-intro
     div
 
       h1 PORTFOLIO
 
       p.lead.text-light
-        | See my works below. All their back-end and front-end parts were completely done by me. 
+        | Most of the projects here are created within #[a(target="_blank", href="https://teamtreehouse.com/techdegree/full-stack-javascript") FullStack JavaScript TechDegree program].
+        br
+        | A #[a(target="_blank", href="https://antonkilk.github.io/d3-force-graph/") Concept Map] project created using cytoscape.js and d3 to learn the principles of data visualisation.
+        br
+        | Click on the project's image to get more information about its purpose and technologies used.
   article.grid-container.portfolio-index
-    
+
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3(class="animated fadeInUp delay-1s")
 
       each project in projects
@@ -18,4 +22,4 @@ block content
             img.thumbnail(src=`/static/img/proj0${project.id}_main.png`)
             h5= project.project_name
 
-      
+
