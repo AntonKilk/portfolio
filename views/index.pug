@@ -9,19 +9,18 @@ block content
       p.lead.text-light
         | Most of the projects here are created during a FullStack JavaScript TechDegree #[a(target="_blank", href="https://teamtreehouse.com/techdegree/full-stack-javascript") program].
         br
-        | Data visualisation projects:
-        br
-        | Currently cracking a Concept Map project for #[a(target="_blank", href="https://paqmind.com/en") Paqmind] learning platform. Check cytoscape.js version #[a(target="_blank", href="https://antonkilk.github.io/d3-force-graph/") here] and Vis.js + React #[a(target="_blank", href="https://concept-map.now.sh") here].
-        br
         | Click on the project's image to get more information about its purpose and technologies used.
+        br
+        | Currently having fun with data visualization creating a concept map for #[a(target="_blank", href="https://paqmind.com/en") Paqmind] learning platform. Check cytoscape.js version #[a(target="_blank", href="https://antonkilk.github.io/d3-force-graph/") here] and Vis.js + React #[a(target="_blank", href="https://concept-map.now.sh") here].
+
   article.grid-container.portfolio-index
 
-    .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3(class="animated fadeInUp delay-1s")
+      .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3(class="animated fadeInUp delay-1s")
 
-      each project in projects
-        .cell
-          a(href=`project/${project.id}`)
-            img.thumbnail(src=`/static/img/proj0${project.id}_main.png`)
-            h5= project.project_name
+        each project in projects
+          .cell
+            a(href=`project/${project.id}`)
+              img.thumbnail(src=`/static/img/proj0${project.id}_main.png`)
+              h5= project.project_name
 
 
