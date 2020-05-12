@@ -1,5 +1,21 @@
 {
     "projects": [
+        {
+            "id": "7",
+            "project_name": "Graph on Vis.js + React",
+            "description": "Hierarchical map of programming courses. To visualize the map, I searched through different libraries, like d3.js, cola.js, cytoscape.js and some commercial solutions. In the end, I decided in favour of vis.js + React.",
+            "technologies": ["JavaScript",
+                "React",
+                "vis.js",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://concept-map.now.sh",
+            "github_link":"https://github.com/AntonKilk/graph-visjs-react",
+            "image_urls":["proj07_01.png",
+                "proj07_02.png",
+                "proj07_03.png"]
+        },
           {
             "id": "6",
             "project_name": "React Gallery App",
