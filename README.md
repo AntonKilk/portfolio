@@ -23,10 +23,4 @@ https://anton-portfolio.herokuapp.com/
 * [Express](https://expressjs.com/) - Web Framework
 * [Pug](https://pugjs.org/api/getting-started.html) - Template Engine
 * [Animate.css](https://github.com/daneden/animate.css) - Used to add animations via CSS
-
-### Style customization
-
-I have...
-
-* added a file [add-styles.css](public/css/add-styles.css) to add some personality to styles
-* added animation to pages "main" and "about". 
+ 
