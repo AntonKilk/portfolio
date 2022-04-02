@@ -20,7 +20,7 @@ https://anton-portfolio.herokuapp.com/
 ### Built With
 
 * Node.js
-* [Express](https://expressjs.com/) - Web Framework
-* [Pug](https://pugjs.org/api/getting-started.html) - Template Engine
-* [Animate.css](https://github.com/daneden/animate.css) - Used to add animations via CSS
+* [Express](https://expressjs.com/)
+* [Pug](https://pugjs.org/api/getting-started.html)
+* [Animate.css](https://github.com/daneden/animate.css)
  
