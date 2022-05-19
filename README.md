@@ -1,7 +1,3 @@
-# Static node and express site
-
-## FSJS Techdegree Project 5 (teamtreehouse.com)
-
 ### Author: Anton Kilk
 
 ### Description:
