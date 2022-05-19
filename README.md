@@ -1,7 +1,3 @@
-### Author: Anton Kilk
-
-### Description:
-
 This is a portfolio site that shows my previous works. The website contains next pages:
 * Home
 * About
