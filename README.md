@@ -1,4 +1,4 @@
-This is a portfolio site that shows my previous works. The website contains next pages:
+This is a portfolio site that shows my first works. The website contains next pages:
 * Home
 * About
 * Project pages
